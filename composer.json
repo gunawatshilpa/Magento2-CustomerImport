@@ -1,5 +1,5 @@
 {
-    "name": "vml/module-customerimport",
+    "name": "Vml/CustomerImport",
     "description": "Customer Import via CSV & JSON",
     "type": "magento2-module",
     "minimum-stability": "dev",
@@ -16,7 +16,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "VML\\CustomerImport\\": ""
+            "Vml\\CustomerImport\\": ""
         }
     }
 }
